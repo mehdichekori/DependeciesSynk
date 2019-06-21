@@ -38,7 +38,7 @@
     "express": "^4.16.4",
     "express-flash": "*",
     "express-session": "*",
-    "express-validator": "^5.3.1",
+    "express-validator": "^6.0.0",
     "fbgraph": "^1.4.4",
     "lodash": "4.17.11",
     "lusca": "^1.6.1",
